@@ -1,0 +1,6 @@
+{
+  "name": "SHU BREND — Erkaklar kiyimlari do'koni",
+  "description": "SHU BREND — zamonaviy erkaklar kiyimlari internet-do'koni va to'liq admin paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
